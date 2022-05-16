@@ -1,0 +1,91 @@
+
+.body{
+    margin: 0;
+    padding: 0;
+}
+.instagram{
+    background-color: rgb(211, 211, 211);
+    margin: 0;
+}
+.instagram-post{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.instagram-header{
+    text-align: center;
+    margin: 0;
+    background-color: white;
+}
+.instagram-header h1{
+    text-align: center;
+    margin: 0;
+}
+.instagram-header i{
+    padding-top: 10cm;
+}
+
+
+.instagram-feed {
+	width: 500px;
+
+	margin: auto;
+}
+
+.post-header{
+    display: flex;
+    background-color: white;
+    padding: 10px;
+}
+.username{
+    width: 80%;
+	margin-left: 10px;
+	padding: 0px;
+}
+.date{
+    width: 20%;
+	margin: 0;
+	padding: 0px;
+    text-align: right;
+}
+.username p{
+	margin: 0;
+}
+.date span{
+	margin: 0;
+}
+.photo{
+    width: 500px;
+	height: 400px;
+}
+.photo img{
+	width: 500px;
+	height: 400px;
+}
+.fa-regular fa-bookmark fa-2x{
+    
+}
+.caption{
+    background-color: white;
+    margin: 0;
+    padding: 10px
+}
+.caption p{
+    margin: 0
+}
+.iconos{
+    display: flex;
+    margin
+    
+}
+.icon-1{
+    padding-left: 10px;
+}
+.icon-2{
+    padding-left: 10px;
+}
+.icon-3{
+    padding-left: 10px;
+}
+.icon-4{
+    padding-left: 65%;
+}
